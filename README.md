@@ -9,12 +9,12 @@ Today, you'll be starting your own e-commerce store! You'll be selling shoes and
 
 # API
 ```
-$ cd Backend               # Change into the directory
-$ bundle install           # Install the appropriate dependencies/gems
-$ rails db:create          # Creates the database
-$ rails db:migrate         # Migrate the database
-$ rails db:seed            # Seeds the database
-$ rails server             # Start the server
+//$ cd Backend               # Change into the directory
+//$ bundle install           # Install the appropriate dependencies/gems
+//$ rails db:create          # Creates the database
+//$ rails db:migrate         # Migrate the database
+//$ rails db:seed            # Seeds the database
+//$ rails server             # Start the server
 ```
 
 ## Getting All Shoes For the Sidebar
